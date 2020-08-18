@@ -77,7 +77,7 @@
                     <a class="nav-link" href="mainPage.php">Perfil</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="../Feedback/feedback.php">Tutorial</a>
+                    <a class="nav-link" href="#">Tutorial</a>
                   </li>  
                   <li class="nav-item">
                   </li>                      
