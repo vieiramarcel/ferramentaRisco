@@ -1,0 +1,37 @@
+
+.header{
+    min-height: 0px;
+    padding-top: 18px;
+    background: #A9A9A9;
+    box-shadow: 0 0 10px #000;
+  
+    /* Set a specified height, or the minimum height for the background image */
+    min-height: 500px;
+}
+
+.header img{
+    width: 100px;
+    transform: translatex(-10%);
+}
+
+
+.header a.title {
+    color: #000;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: absolute;
+    left: 30%;
+    transform: translatex(-10%);
+}
+
+.nav-link{
+    
+    color: #000;
+}
+.nav-link:hover{
+    color: #ccad00;
+}
+.navbar-toggler .fa{
+  
+    color: #000;
+}
