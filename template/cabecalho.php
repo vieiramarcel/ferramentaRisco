@@ -19,7 +19,7 @@
 
 .menu-bar img{
     width: 93px;
-    margin-left:39px;
+    margin-left:45px;
     transform: translatex(-19%);
 }
 
@@ -77,7 +77,7 @@
                     <a class="nav-link" href="mainPage.php">Perfil</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="#">Tutorial</a>
+                    <a class="nav-link" href="tutorial.php">Tutorial</a>
                   </li>  
                   <li class="nav-item">
                   </li>                      

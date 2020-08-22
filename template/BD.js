@@ -47,7 +47,7 @@ var bd = [
     {
         id: 5,
         metodologiaAgil: 'Utilizando o Kanban',
-        papeis: 'kanban master',
+        papeis: ['kanban master', 'neymar', 'pietro'],
         identificacao: 'Para o Kanban',
         analise: 'xabrau 42',
         planejamento: 'xabrau 43',

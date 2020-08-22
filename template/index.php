@@ -1,13 +1,31 @@
-<?php
-  include("cabecalho.php");
-?>
+
+
+
 <!DOCTYPE HTML>
+
 <!--
 	Introspect by TEMPLATED
 	templated.co @templatedco
 	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
 -->
 <html>
+	
+<?php
+    session_start();
+	if(isset($_SESSION['status_feedback'])):
+		if($_SESSION['status_feedback']){
+			echo "<script>alert('Obrigado pelo feedback!');</script>";
+		}
+  ?>
+
+  <?php
+    endif;
+	unset($_SESSION['status_feedback']);
+  ?>
+<?php
+  include("cabecalho.php");
+?>
+
 	<head>
 		<title>Introspect by TEMPLATED</title>
 		<meta charset="utf-8" />
@@ -110,34 +128,36 @@
 					</article>
 				</div>
 			</section>
+			
 
 		<!-- Footer -->
 			<section id="footer">
 				<div class="inner">
 					<header>
-						<h2>Entre em contato</h2>
+						<h2>Feedback</h2>
 					</header>
-					<form method="post" action="#">
+					<form action = "processo.php" method = "POST">
 						<div class="field half first">
 							<label for="name">Nome</label>
-							<input type="text" name="name" id="name" />
+							<input type="text" name="nome" id="nome" required/>
 						</div>
 						<div class="field half">
 							<label for="email">Email</label>
-							<input type="text" name="email" id="email" />
+							<input type="text" name="email" id="email" required />
 						</div>
 						<div class="field">
 							<label for="message">Mensagem</label>
-							<textarea name="message" id="message" rows="6"></textarea>
+							<textarea name="mensagem" id="mensagem" required rows="6"></textarea>
 						</div>
 						<ul class="actions">
-							<li><input type="submit" value="Enviar" class="alt" /></li>
+							<li><button type="submit" value="Enviar" class="alt">ENVIAR</button> </li>
 						</ul>
 					</form>
 					<div class="copyright">
 						&copy; Untitled Design: <a href="https://templated.co/">TEMPLATED</a>. Images <a href="https://unsplash.com/">Unsplash</a>
 					</div>
 				</div>
+				
 			</section>
 
 		<!-- Scripts -->
