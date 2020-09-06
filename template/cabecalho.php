@@ -4,7 +4,7 @@
     <meta charset="utf-8" />
     <title>RM-AGILE</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="shortcut icon" href="../Imagens/favicon.png" type="image/x-png"/>
+    <link rel="shortcut icon" href="images/favicon2.png" type="image/x-png"/>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
     <link rel="stylesheet" href="cabecalho.css"/>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" >

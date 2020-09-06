@@ -32,6 +32,7 @@ input[type="checkbox"], input[type="radio"] {
     padding-bottom: 30px;
     text-align: center;
     margin-top: 50px;
+    /*color:#1a73d9;*/
 }
 
 
@@ -44,7 +45,7 @@ input[type="checkbox"], input[type="radio"] {
     font-size: 20px;
     padding-top: 30px;
     text-align: center;
-    box-shadow: 0px 0px 6px 0px #e5474b;
+    box-shadow: 0px 0px 6px 0px #1a73d9;
     border-radius: 10px;
     background: #f6f6f6
 }
@@ -63,7 +64,7 @@ input[type="checkbox"], input[type="radio"] {
 }
 
 .botao{
-    box-shadow: 0px 0px 6px 0px #e5474b;
+    box-shadow: 0px 0px 6px 0px #1a73d9;
     border-radius: 10px;
     margin-bottom: 20px;
     margin-top: 10px;

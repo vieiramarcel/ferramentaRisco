@@ -22,8 +22,9 @@
 <body>
 <div class="background">
     <div id = "pdfid" class="painel">
-	
-		<!--<h1> Práticas indicadas para o seu perfil</h1>-->
+		
+		<!--<h1> Seu guia está pronto!</h1>-->
+		
 		<h2>Planejamento</h2>
 		<button class="accordion"><b>Metodologia ágil</b></button>	
 		<div class="panel" id="metodologiaAgil">

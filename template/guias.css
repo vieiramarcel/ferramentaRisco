@@ -27,17 +27,18 @@
     margin-bottom: 30px;
 }
 
+
 .accordion {
     background: #f1f1f1;
     box-sizing: border-box;
     border-radius: 10px;
-    box-shadow: 0 0 3px #000000b3;
+    box-shadow: 0 0 3px #1a73d9;
     color: #000;
     cursor: pointer;
     padding: 18px;
     width: 100%;
     text-align: left;
-    border: 1px solid white;
+    border: 1px solid #1a73d9;
     outline: none;
     transition: 0.4s;
     font: 20px Lato, sans-serif;
