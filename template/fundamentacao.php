@@ -18,11 +18,12 @@
 </head>
 
 <body>
-    <!--
-<iframe src="https://h5p.org/h5p/embed/439596" width="1090" height="2556" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
--->
+
 				<div class="container">
+                <!--
 <iframe src="http://localhost/gestaoAgilrisco/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="4287" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="http://localhost/gestaoAgilrisco/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+-->
+<iframe src="https://rmagileh5p.h5p.com/content/1291133502155001088/embed" width="900" height="700" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://rmagileh5p.h5p.com/js/h5p-resizer.js" charset="UTF-8"></script>
 
     </div>
 			
