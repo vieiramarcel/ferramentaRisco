@@ -22,7 +22,13 @@
 <iframe src="https://h5p.org/h5p/embed/439596" width="1090" height="2556" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 -->
 				<div class="container">
+                <!--
 <iframe src="http://localhost/gestaoAgilrisco/wp-admin/admin-ajax.php?action=h5p_embed&id=1" width="958" height="4287" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="http://localhost/gestaoAgilrisco/wp-content/plugins/h5p/h5p-php-library/js/h5p-resizer.js" charset="UTF-8"></script>
+    -->
+    <iframe src="https://rmagile.moodlecloud.com/h5p/embed.php?url=https%3A%2F%2Frmagile.moodlecloud.com%2Fpluginfile.php%2F44%2Fmod_h5pactivity%2Fpackage%2F0%2Fguia-1%2520%25281%2529.h5p" name="h5player" width="958" height="4287" frameborder="0"
+   allowfullscreen="allowfullscreen" class="h5p-player w-100 border-0"
+   style="min-height: 230px;">
+</iframe><script src="https://rmagile.moodlecloud.com/h5p/h5plib/v124/joubel/core/js/h5p-resizer.js"></script>
     </div>
 			
 <!--
