@@ -31,7 +31,7 @@
     left: 47%;
     transform: translatex(-21%);
 }
-@media screen and (max-width:600px){
+@media screen and (max-width:500px){
     .menu-bar a.title{
         font-size: 29px;
     }

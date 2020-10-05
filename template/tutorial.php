@@ -35,7 +35,7 @@
 			<section id="main" >
 				<div class="inner">
 					<header class="major special">
-						<h1>Tutorial</h1>
+						<h2>Tutorial</h2>
 						<p>O vídeo abaixo ensina como navegar e utilizar a ferramenta RM-AGILE</p>
 					</header>
 					<a href="#" class="image fit"><iframe src="https://h5p.org/h5p/embed/617" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></a>
