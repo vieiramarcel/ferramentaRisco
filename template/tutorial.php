@@ -39,9 +39,11 @@
 						<p>O vídeo abaixo ensina como navegar e utilizar a ferramenta RM-AGILE</p>
 					</header>
 					<a href="#" class="image fit"><iframe src="https://h5p.org/h5p/embed/617" width="1090" height="675" frameborder="0" allowfullscreen="allowfullscreen"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script></a>
-					<p>Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan sapien blandit ac amet faucibus aliquet placerat commodo. Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan.</p>
-					<p>Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet Ac interdum ac non praesent. Cubilia lacinia interdum massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan euismod nunc adipiscing lacinia erat ut sit. Arcu amet. Id massa aliquet arcu accumsan lorem amet accumsan commodo odio cubilia ac eu interdum placerat placerat arcu commodo lobortis adipiscing semper ornare pellentesque.</p>
-					<p>Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing placerat lorem turpis at. Aliquet lorem porttitor interdum. Amet lacus. Aliquam lobortis faucibus blandit ac phasellus. In amet magna non interdum volutpat porttitor metus a ante ac neque. Nisi turpis. Commodo col. Interdum adipiscing mollis ut aliquam id ante adipiscing commodo integer arcu amet blandit adipiscing arcu ante.</p>
+					<h2>Resumo</h2>
+					<p>O processo de desenvolvimento de software está cada vez mais dinâmico e os modelos ágeis estão sendo utilizados como uma alternativa aos modelos prescritivos. Projetos de software tendem a ser pouco previsíveis e estáveis, portanto aplicar técnicas provenientes de abordagens ágeis como Scrum ou Kanban, por exemplo, para minimizar os efeitos das constantes alterações dos requisitos, é importante. Entretanto, a falta de formalização e explicitação da gestão de riscos nas abordagens ágeis pode acarretar no fracasso de um projeto, pois não identificar os riscos que podem vir a acontecer e não possuir um plano de contingência para tratá-los, pode gerar diversos problemas, como ultrapassar o cronograma e o custo preestabelecido.</p>
+					<p>A gestão de riscos tem como objetivo controlar, de forma contínua, os riscos que podem surgir no desenvolvimento de software em todas as etapas, já que realizar um planejamento adequado e monitorar corretamente sua elaboração, pode evitar que ameaças se tornem problemas, e caso ocorram, tenham seu impacto mitigado. Dito isto, este trabalho tem o intuito de propor um guia para gestão ágil de riscos focado em projetos de software, através de conjuntos de práticas simples e úteis que podem ser integrados as abordagens ágeis, sem perder sua essência dinâmica.</p>
+					<h2>Sobre</h2>
+					<p>Esta ferramenta foi desenvolvida pelo autor Marcel Figueiredo Vieira com suporte do doutor e professor Jean Carlo Rossa Hauck, como parte do Trabalho de Conclusão de Curso (TCC) do curso de graduação de Sistemas de informação da Universidade Federal de Santa Catarina.</p>
 				</div>
 			</section>
 
@@ -69,9 +71,8 @@
 						</ul>
 					</form>
 					<div class="copyright">
-						&copy; Untitled Design: <a href="https://templated.co/">TEMPLATED</a>. Images <a href="https://unsplash.com/">Unsplash</a>
+						&copy;  2020 Creative Commons, template elaborado por: <a href="https://templated.co/license">Templated. </a> Imagens: <a href="http://www.freepik.com">Designed by snowing, rawpixel.com, Mindandi / Freepik</a></a></br>
 					</div>
-				</div>
 				
 			</section>
 	

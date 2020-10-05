@@ -54,11 +54,11 @@
 			<section id="one">
 				<div class="inner">
 					<header>
-						<h2>Perfil organizacional</h2>
+						<h2>Guia completo</h2>
 					</header>
-					<p>Para receber um guia de gestão ágil de riscos personalizado ao perfil da sua organização, basta preencher algumas informações, como: Tamanho da organização, metodologia ágil utilizada e consequência em caso de falha do software desenvolvido. Você poderá consultar este guia online ou baixar o PDF para acessar quando quiseres!</p>
+					<p>O Guia de gestão ágil de riscos completo possui todas as cerimônias, papéis, atividades, técnicas, ferramentas e produtos de trabalho deste processo, podendo ser aplicado a organizações da área de tecnologia da informação que utilizam metodologias ágeis para apoiar o desenvolvimento de software. </p>
 					<ul class="actions">
-						<li><a href="mainPage.php" class="button alt">Faça o seu!</a></li>
+						<li><a href="fundamentacao.php" class="button alt">Acesse!</a></li>
 					</ul>
 				</div>
 			</section>
@@ -74,7 +74,7 @@
 							<div class="image fit">
 								<img src="images/projectManagement.jpg" alt="" />
 							</div>
-							<p>Querendo conhecer mais sobre os conceitos chaves de gestão de projetos? Basta clicar <a href="http://localhost/ferramentaRisco/ferramentaRisco/template/fundamentacao.php#h5pbookid=1&chapter=h5p-interactive-book-chapter-13a54650-6eab-4ee7-bf74-75954977b30a&section=h5p-interactive-book-section-7425cbc7-b0fb-4939-9eee-328527ce393e&headerNumber=0">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
+							<p>Querendo conhecer mais sobre os conceitos chaves de gestão de projetos? Basta clicar <a href="http://localhost/ferramentaRisco/ferramentaRisco/template/fundamentacao.php#h5pbookid=1&chapter=h5p-interactive-book-chapter-e2203497-a3d4-40fb-94d3-33b7b6fa4037&section=h5p-interactive-book-section-853f1ec3-c4ad-4cf4-941b-0b9c7e526e7a&headerNumber=0">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
 						</div>
 					</article>
 					<article class="alt">
@@ -85,7 +85,7 @@
 							<div class="image fit">
 								<img src="images/risk.jpg" alt="" />
 							</div>
-							<p>Querendo conhecer mais sobre riscos em projetos de software? Basta clicar <a href="http://localhost/ferramentaRisco/ferramentaRisco/template/fundamentacao.php#h5pbookid=1&chapter=h5p-interactive-book-chapter-13a54650-6eab-4ee7-bf74-75954977b30a&section=h5p-interactive-book-section-7425cbc7-b0fb-4939-9eee-328527ce393e&headerNumber=0">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
+							<p>Querendo conhecer mais sobre riscos em projetos de software? Basta clicar <a href="http://localhost/ferramentaRisco/ferramentaRisco/template/fundamentacao.php#h5pbookid=1&chapter=h5p-interactive-book-chapter-e2203497-a3d4-40fb-94d3-33b7b6fa4037&section=h5p-interactive-book-section-bee2b190-33a9-469d-bef5-9253fb4028a0&headerNumber=0">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
 						</div>
 					</article>
 				</div>
@@ -94,18 +94,7 @@
 		<!-- Three -->
 			<section id="three">
 				<div class="inner">
-					<article>
-						<div class="content">
-							<span class="icon fa-users"></span>
-							<header>
-								<h3>Perfil</h3>
-							</header>
-							<p>Querendo um guia de gestão ágil de riscos para sua organização com foco em desenvolvimento de software?</p>
-							<ul class="actions">
-								<li><a href="mainPage.php" class="button alt">Acesse!</a></li>
-							</ul>
-						</div>
-					</article>
+					
 					<article>
 						<div class="content">
 							<span class="icon fa-book"></span>
@@ -114,7 +103,7 @@
 							</header>
 							<p>Querendo consultar o guia completo de gestão ágil de riscos com foco em desenvolvimento de software?</p>
 							<ul class="actions">
-								<li><a href="guias.php" class="button alt">Acesse!</a></li>
+								<li><a href="fundamentacao.php" class="button alt">Acesse!</a></li>
 							</ul>
 						</div>
 					</article>
@@ -127,6 +116,18 @@
 							<p>Querendo aprender sobre como navegar e utilizar a ferramenta RM-AGILE?</p>
 							<ul class="actions">
 								<li><a href="tutorial.php" class="button alt">Acesse!</a></li>
+							</ul>
+						</div>
+					</article>
+					<article>
+						<div class="content">
+							<span class="icon fa-users"></span>
+							<header>
+								<h3>O autor</h3>
+							</header>
+							<p>Querendo conhecer um pouco mais do trabalho do autor ou contactá-lo diretamente?</p>
+							<ul class="actions">
+								<li><a href="https://www.linkedin.com/in/marcel-figueiredo-vieira/" class="button alt">Acesse!</a></li>
 							</ul>
 						</div>
 					</article>

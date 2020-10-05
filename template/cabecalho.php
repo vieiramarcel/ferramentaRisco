@@ -74,9 +74,6 @@
                     <a class="nav-link" href="fundamentacao.php">Guia</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link" href="mainPage.php">Perfil</a>
-                  </li>
-                  <li class="nav-item">
                     <a class="nav-link" href="tutorial.php">Tutorial</a>
                   </li>  
                   <li class="nav-item">
