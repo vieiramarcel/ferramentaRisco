@@ -74,7 +74,7 @@
 							<div class="image fit">
 								<img src="images/projectManagement.jpg" alt="" />
 							</div>
-							<p>Querendo conhecer mais sobre os conceitos chaves de gestão de projetos? Basta clicar <a href="http://localhost/ferramentaRisco/ferramentaRisco/template/fundamentacao.php#h5pbookid=1&chapter=h5p-interactive-book-chapter-e2203497-a3d4-40fb-94d3-33b7b6fa4037&section=h5p-interactive-book-section-853f1ec3-c4ad-4cf4-941b-0b9c7e526e7a&headerNumber=0">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
+							<p>Querendo conhecer mais sobre os conceitos chaves de gestão de projetos? Basta clicar <a href="https://rm-agile.herokuapp.com/fundamentacao.php">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
 						</div>
 					</article>
 					<article class="alt">
@@ -85,7 +85,7 @@
 							<div class="image fit">
 								<img src="images/risk.jpg" alt="" />
 							</div>
-							<p>Querendo conhecer mais sobre riscos em projetos de software? clique <a href="http://localhost/ferramentaRisco/ferramentaRisco/template/fundamentacao.php#h5pbookid=1&chapter=h5p-interactive-book-chapter-e2203497-a3d4-40fb-94d3-33b7b6fa4037&section=h5p-interactive-book-section-bee2b190-33a9-469d-bef5-9253fb4028a0&headerNumber=0">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
+							<p>Querendo conhecer mais sobre riscos em projetos de software? clique <a href="https://rm-agile.herokuapp.com/fundamentacao.php">aqui</a> para consultar o capítulo do guia sobre este tema.</p>
 						</div>
 					</article>
 				</div>
