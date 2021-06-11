@@ -77,6 +77,7 @@
                     <a class="nav-link" href="tutorial.php">Tutorial</a>
                   </li>  
                   <li class="nav-item">
+                  <a class="nav-link" href="../..\ferramentaRisco\AgileRiskTool/ferramentaRisco/template">EN-US</a>
                   </li>                      
                 </ul>
               </div>
