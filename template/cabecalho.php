@@ -68,7 +68,7 @@
                 <i class="fa fa-bars"></i>
               </button>
               
-              <div class="collapse navbar-collapse" id="navbarNav">
+              <div class="collapse navbar-collapse"  id="navbarNav">
                 <ul class="navbar-nav ml-auto text-right">
                   <li class="nav-item">
                     <a class="nav-link" href="fundamentacao.php">Guia</a>
